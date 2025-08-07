@@ -56,8 +56,8 @@ http://localhost:8080/swagger-ui.html
 ### 🖥️ Via Maven
 
 ```bash
-git clone https://github.com/seuusuario/delivery-api.git
-cd delivery-api
+git clone https://github.com/FelipeDMartinez/Delivery.git
+cd Delivery
 ./mvnw spring-boot:run
 ```
 
@@ -79,8 +79,6 @@ docker-compose up --build
 ---
 
 
----
-
 ## 📬 Contato
 
-[Seu Email] - [LinkedIn] - [GitHub]
+[[LinkedIn](https://www.linkedin.com/in/luiz-felipe-domingos-martinez-87a61b357/)] - [[GitHub](https://github.com/FelipeDMartinez)]
